@@ -1,0 +1,3 @@
+learning from udemy course
+learning how to write in a file
+learning python
